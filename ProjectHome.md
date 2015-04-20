@@ -1,0 +1,1 @@
+Flutter is a combined phenomenon between aerodynamics and structural dynamics that structures, generally aircraft, if occurred, are violently destroyed. This project is to develop an analysis tools for flutter in Python.
